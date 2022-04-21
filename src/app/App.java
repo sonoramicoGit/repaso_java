@@ -6,6 +6,7 @@ public class App {
 		//Pasos para Instalacion
 		
 		System.out.println("1.-Primer paso vamos a inicializar el repositorio"); 
+		System.out.println("2.-Segundo paso vamos a cambiar una linea y subirla"); 
 	}
 
 }
